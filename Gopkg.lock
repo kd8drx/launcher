@@ -81,8 +81,7 @@
   branch = "master"
   name = "github.com/kolide/kit"
   packages = ["env","fs","testutil","version"]
-  revision = "19dfff12e00e1d46d30636b9150ca5b9f9f05325"
-  source = "git@github.com:kolide/kit.git"
+  revision = "19dfff12e00e1d46d30636b9150ca5b9f9f05325" 
 
 [[projects]]
   branch = "master"
@@ -95,8 +94,7 @@
   name = "github.com/kolide/updater"
   packages = ["tuf"]
   revision = "9d05ccd3132584e745a3ab9e2a28041cf957f37f"
-  source = "git@github.com:kolide/updater.git"
-
+  
 [[projects]]
   branch = "master"
   name = "github.com/kr/logfmt"
